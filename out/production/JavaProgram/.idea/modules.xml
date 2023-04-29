@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Array/Array.iml" filepath="$PROJECT_DIR$/LeetCode/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array1/Array1.iml" filepath="$PROJECT_DIR$/Array1/Array1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameProject/GameProject.iml" filepath="$PROJECT_DIR$/GameProject/GameProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProgram.iml" filepath="$PROJECT_DIR$/.idea/JavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternAdvanced/PatternAdvanced.iml" filepath="$PROJECT_DIR$/PatternAdvanced/PatternAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+    </modules>
+  </component>
+</project>
