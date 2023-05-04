@@ -8,8 +8,6 @@ public class Armstrong {
         for (int i = 0 ;i<n; i++){
             int r = n % 10;
             m += Math.pow(r,r);
-
-            r = n / 10;
         }
         System.out.println(m);
     }
