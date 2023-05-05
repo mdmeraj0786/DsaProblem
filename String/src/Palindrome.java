@@ -1,23 +1,17 @@
 package String.src;
 
-import java.util.Scanner;
-
 public class Palindrome {
-    static boolean palindrome(String s1){
-        String s2 = "";
-        for(int i = s1.length() - 1; i >= 0; i--){
-            s2 = s2 + s1.charAt(i);
+
+    static boolean palindrome(){
+        StringBuilder s2 = new StringBuilder();
+        for(int i = "121".length() - 1; i >= 0; i--){
+            s2.append("121".charAt(i));
         }
-        if(s1.equals(s2)){
-            return true;
-        }
-        return false;
+        return "121".equals(s2.toString());
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the value : ");
-        String s1 = sc.nextLine();
-        System.out.println(palindrome(s1));
+
+        System.out.println(palindrome());
     }
 }

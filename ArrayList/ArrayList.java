@@ -1,4 +1,4 @@
-package LinkedList.src;
+package ArrayList;
 
 import java.util.Collections;
 import java.util.Scanner;

@@ -17,8 +17,8 @@ public class Anagram {
         s1 = s1.toLowerCase();
         s2 = s2.toLowerCase();
 
-        char arr1[] = s1.toCharArray();
-        char arr2[] = s2.toCharArray();
+        char[] arr1 = s1.toCharArray();
+        char[] arr2 = s2.toCharArray();
 
         Arrays.sort(arr1);
         Arrays.sort(arr2);
