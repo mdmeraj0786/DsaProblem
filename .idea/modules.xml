@@ -11,9 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRoom/MyRoom.iml" filepath="$PROJECT_DIR$/MyRoom/MyRoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatternAdvanced/PatternAdvanced.iml" filepath="$PROJECT_DIR$/PatternAdvanced/PatternAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRoom/String/String.iml" filepath="$PROJECT_DIR$/MyRoom/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringAssignment/StringAssignment.iml" filepath="$PROJECT_DIR$/StringAssignment/StringAssignment.iml" />
     </modules>
   </component>

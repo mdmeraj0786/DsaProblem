@@ -21,7 +21,7 @@ public class Basicll {
         a.next = b; // a -> b c d
         b.next = c; // a -> b -> c
         c.next = d; // a -> b -> c -> d
-        //a -> b -> c-> d
+       // a -> b -> c-> d
 
         System.out.println(a.data);
         System.out.println(a.next.data);
